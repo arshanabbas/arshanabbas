@@ -27,7 +27,6 @@ mindmap
     ((Languages))
       Python
       C++
-      PowerShell
     ((AI/ML))
       PyTorch
       TensorFlow
@@ -40,7 +39,7 @@ mindmap
       Django
       FastAPI
     ((DevOps))
-      Git
+      GitHub
       Jira
       Docker
     ((Databank))
@@ -54,7 +53,6 @@ mindmap
       AWS
         S3
         Lambda
-        Neptune
       Azure
 ```
 
